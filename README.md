@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amolsamgir1
-- 👀 I’m interested in .NET CORE, C#, SQL, Azure, Docker, Kubernetes.
-- 🌱 I’m currently learning Azure, Docker and Kubernetes.
-- 💞️ I’m looking to collaborate on Azure, Docker and Kubernetes.
+- 👀 I’m interested in .NET CORE, C#, SQL, Azure, AWS, AI, Automation, React,CI/CD, Docker, Kubernetes.
+- 🌱 I’m currently working on various tech platforms like .NET, C#, AWS, AI, CI/CD Pipelines.
+- 💞️ I’m looking to collaborate on AWS, .NET, CI/CD.
 - 📫 How to reach me amolsamgir@gmail.com
 
 <!---
